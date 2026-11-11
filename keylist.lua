@@ -1,4 +1,5 @@
 return {
+  ["ROXZ-4SBE-VJK2-PJA5"] = { valid = true, expire = "2026-11-18 11:53:28" },
   ["ROXZ-68Y3-VHNK-R9CA"] = { valid = true, expire = "2026-11-10 12:07:13" },
   ["ROXZ-9896-GACH-JD3S"] = { valid = true, max_devices = 10, expire = "2026-11-11 15:10:22" },
   ["ROXZ-AZR8-P567-YDG5"] = { valid = true, expire = "2026-11-17 05:48:01" },
