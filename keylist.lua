@@ -22,4 +22,5 @@ return {
   ["ROXZ-WH66-3XQS-HLXQ"] = { valid = true, expire = "2026-11-18 13:40:53" },
   ["ROXZ-WYPM-PLGB-N6G4"] = { valid = true, expire = "2026-11-19 11:54:55" },
   ["ROXZ-ZN67-8FB4-V8WN"] = { valid = true, expire = "2026-11-19 08:09:00" },
+  ["ROXZ-ZPAH-FS48-RNVZ"] = { valid = true, expire = "2026-11-19 12:40:22" },
 }
