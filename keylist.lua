@@ -1,5 +1,5 @@
 return {
-  ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30", creator = "5738050034" },
+  ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
   ["ROXZ-2BKG-GJKQ-H5EP"] = { valid = true, expire = "2026-11-19 06:50:35" },
   ["ROXZ-2M6Q-9G8A-CDXP"] = { valid = true, expire = "2026-11-19 07:35:09" },
   ["ROXZ-3QSA-FEV2-92AK"] = { valid = true, expire = "2026-11-19 11:11:39" },
@@ -17,6 +17,7 @@ return {
   ["ROXZ-BT5B-ZY2F-99RY"] = { valid = true, expire = "2026-11-16 12:40:10" },
   ["ROXZ-E7S8-Z4CD-U5B9"] = { valid = true, expire = "2026-11-19 11:37:12" },
   ["ROXZ-EJKP-WE9N-P6VU"] = { valid = true, expire = "2026-11-18 06:39:40" },
+  ["ROXZ-HNKS-EX8K-Q58Y"] = { valid = true, expire = "2026-11-19 14:01:19" },
   ["ROXZ-KM3P-XQJP-TCHQ"] = { valid = true, expire = "2026-11-09 12:03:17" },
   ["ROXZ-N72P-TVMN-Z4EV"] = { valid = true, expire = "2026-11-11 06:20:00" },
   ["ROXZ-QWZZ-L3YM-RWDY"] = { valid = true, expire = "2026-11-18 18:43:45" },
