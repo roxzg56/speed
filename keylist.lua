@@ -30,4 +30,5 @@ return {
   ["ROXZ-ZN67-8FB4-V8WN"] = { valid = true, expire = "2026-11-19 08:09:00" },
   ["ROXZ-ZPAH-FS48-RNVZ"] = { valid = true, expire = "2026-11-19 12:40:22" },
   ["VILLN-JVR4-VXX8-5NF5"] = { valid = true, expire = "2026-11-19 15:00:52", creator = "1069319252" },
+  ["VILLN-SP34-TDDP-ZC6U"] = { valid = true, expire = "2026-11-13 15:14:08", creator = "1069319252" },
 }
