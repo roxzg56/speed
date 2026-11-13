@@ -48,5 +48,6 @@ return {
   ["VILLN-K6XX-4LYX-EU64"] = { valid = true, expire = "2026-11-15 15:21:34" },
   ["VILLN-QYB9-VLVH-PGPC"] = { valid = true, expire = "2026-11-19 15:32:46" },
   ["VILLN-SP34-TDDP-ZC6U"] = { valid = true, expire = "2026-11-13 15:14:08" },
+  ["VILLN-U9LR-GE39-3Y8G"] = { valid = true, expire = "2026-11-20 04:21:43", creator = "1069319252" },
   ["VILLN-WHVS-KUG6-5NXE"] = { valid = true, expire = "2026-11-13 15:30:27" },
 }
