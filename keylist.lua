@@ -61,6 +61,7 @@ return {
   ["RX2-SDLA-GM9S-JYVQ"] = { valid = true, expire = "2026-11-20 17:04:18", creator = "1050936826" },
   ["RX2-WR9D-6FWK-RKTC"] = { valid = true, max_devices = 10, expire = "2026-11-14 12:21:50" },
   ["RX2-ZDSN-KKT9-J2P7"] = { valid = true, expire = "2026-11-19 17:09:48" },
+  ["VILLN-3WXJ-K363-VXCB"] = { valid = true, expire = "2026-11-20 20:49:05", creator = "1069319252" },
   ["VILLN-7DCS-X7PV-HPKK"] = { valid = true, expire = "2026-11-13 16:23:55" },
   ["VILLN-9ZBH-ESYZ-3KEJ"] = { valid = true, expire = "2026-11-13 15:55:21" },
   ["VILLN-BSP7-RXZG-YKLQ"] = { valid = true, expire = "2026-11-13 15:39:48" },
