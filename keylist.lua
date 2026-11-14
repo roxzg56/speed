@@ -1,6 +1,6 @@
 return {
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
-  ["MYNK-3TFY-TYVG-B33H"] = { valid = true, expire = "2026-11-15 10:38:35", creator = "8537504700" },
+  ["MYNK-3TFY-TYVG-B33H"] = { valid = true, expire = "2026-11-15 10:38:35" },
   ["MYNK-8DM8-PC9G-Q7VT"] = { valid = true, expire = "2026-11-15 05:01:00" },
   ["MYNK-DMAW-QWGN-LB35"] = { valid = true, expire = "2026-11-20 06:40:00" },
   ["MYNK-NQDP-WH8E-BHBZ"] = { valid = true, expire = "2026-11-14 13:56:28" },
@@ -12,6 +12,7 @@ return {
   ["ROXZ-3QSA-FEV2-92AK"] = { valid = true, expire = "2026-11-19 11:11:39" },
   ["ROXZ-42Q6-426L-C4A9"] = { valid = true, expire = "2026-11-20 15:40:06" },
   ["ROXZ-4N6G-XKL2-46YS"] = { valid = true, max_devices = 2, expire = "2026-11-19 14:39:30" },
+  ["ROXZ-4QD2-LMXP-T9SH"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:47:07" },
   ["ROXZ-4SBE-VJK2-PJA5"] = { valid = true, expire = "2026-11-18 11:53:28" },
   ["ROXZ-5F53-WBCV-ZTAK"] = { valid = true, expire = "2026-11-19 19:02:48" },
   ["ROXZ-5L7H-ZFQE-LTMM"] = { valid = true, expire = "2026-11-19 16:31:17" },
