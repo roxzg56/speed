@@ -71,6 +71,7 @@ return {
   ["RX2-2WDX-NB33-BE87"] = { valid = true, expire = "2026-11-21 04:45:11" },
   ["RX2-762E-CS7G-RSP7"] = { valid = true, expire = "2026-11-20 12:09:57" },
   ["RX2-87AY-NYTM-QL6E"] = { valid = true, expire = "2026-11-20 16:02:19" },
+  ["RX2-CMKP-YJK7-ECAZ"] = { valid = true, max_devices = 10, expire = "2026-11-15 13:04:00", creator = "1050936826" },
   ["RX2-DBTH-LQB6-UB7X"] = { valid = true, expire = "2026-11-19 17:39:23" },
   ["RX2-EFMT-SQGL-WD65"] = { valid = true, max_devices = 10, expire = "2026-11-14 06:23:44" },
   ["RX2-EN8J-HBVE-F6YZ"] = { valid = true, expire = "2026-11-21 05:27:34" },
