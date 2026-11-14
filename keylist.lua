@@ -1,4 +1,5 @@
 return {
+  ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08", creator = "5738050034" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
   ["MYNK-3TFY-TYVG-B33H"] = { valid = false, reason = "GHEE KHATAM", expire = "2026-11-15 10:38:35" },
