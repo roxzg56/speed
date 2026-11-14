@@ -1,5 +1,5 @@
 return {
-  ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08", creator = "5738050034" },
+  ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
   ["MYNK-3TFY-TYVG-B33H"] = { valid = false, reason = "GHEE KHATAM", expire = "2026-11-15 10:38:35" },
@@ -22,6 +22,7 @@ return {
   ["ROXZ-5MVL-5G9M-HJ3D"] = { valid = true, expire = "2026-11-18 13:39:26" },
   ["ROXZ-68Y3-VHNK-R9CA"] = { valid = true, expire = "2026-11-10 12:07:13" },
   ["ROXZ-6M4J-A4YQ-7WR7"] = { valid = true, max_devices = 2, expire = "2026-11-19 06:53:26" },
+  ["ROXZ-6Y8R-HUEL-Y9UF"] = { valid = true, expire = "2026-11-21 19:22:21" },
   ["ROXZ-7Q4L-RJGV-83HN"] = { valid = true, expire = "2026-11-19 08:46:26" },
   ["ROXZ-7XL2-DGU2-AZUJ"] = { valid = true, expire = "2026-11-19 16:29:56" },
   ["ROXZ-8YAB-5NMY-B77P"] = { valid = true, max_devices = 10, expire = "2026-11-13 04:25:03" },
