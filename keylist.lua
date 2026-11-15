@@ -82,6 +82,7 @@ return {
   ["ROXZ-ZPAH-FS48-RNVZ"] = { valid = true, expire = "2026-11-19 12:40:22" },
   ["ROXZ-ZT29-BD3B-MF59"] = { valid = true, expire = "2026-11-20 10:39:05" },
   ["ROXZ-ZUSQ-R7AD-PYJH"] = { valid = true, expire = "2026-11-21 07:25:19" },
+  ["ROXZ_GAMING-TRIAL"] = { valid = true, expire = "2026-11-15 07:14:59" },
   ["RX2-2WDX-NB33-BE87"] = { valid = true, expire = "2026-11-21 04:45:11" },
   ["RX2-762E-CS7G-RSP7"] = { valid = true, expire = "2026-11-20 12:09:57" },
   ["RX2-87AY-NYTM-QL6E"] = { valid = true, expire = "2026-11-20 16:02:19" },
