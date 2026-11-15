@@ -100,6 +100,7 @@ return {
   ["ROXZ_GAMING-TRIAL"] = { valid = true, expire = "2026-11-15 07:14:59" },
   ["RX2-2WDX-NB33-BE87"] = { valid = true, expire = "2026-11-21 04:45:11" },
   ["RX2-39XR-V33F-TPZE"] = { valid = true, max_devices = 10, expire = "2026-11-15 11:59:06" },
+  ["RX2-3VA2-WKZU-RLBU"] = { valid = true, expire = "2026-11-22 12:52:35", creator = "1050936826" },
   ["RX2-6HVQ-HJLW-BRDP"] = { valid = true, expire = "2026-11-22 06:45:34" },
   ["RX2-762E-CS7G-RSP7"] = { valid = true, expire = "2026-11-20 12:09:57" },
   ["RX2-87AY-NYTM-QL6E"] = { valid = true, expire = "2026-11-20 16:02:19" },
