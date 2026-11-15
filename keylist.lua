@@ -83,6 +83,7 @@ return {
   ["ROXZ-VGJ6-9G9Y-5XGH"] = { valid = true, expire = "2026-11-20 05:24:33" },
   ["ROXZ-WH66-3XQS-HLXQ"] = { valid = true, expire = "2026-11-18 13:40:53" },
   ["ROXZ-WYPM-PLGB-N6G4"] = { valid = true, expire = "2026-11-19 11:54:55" },
+  ["ROXZ-X2EY-TVGK-KB3K"] = { valid = true, expire = "2026-12-15 10:13:13" },
   ["ROXZ-X8AS-S83E-UKB6"] = { valid = true, expire = "2026-11-15 06:18:13" },
   ["ROXZ-XEW5-W9YH-MVXH"] = { valid = true, expire = "2026-11-14 20:34:02" },
   ["ROXZ-YM8A-CS22-KKHW"] = { valid = true, expire = "2026-11-21 09:43:12" },
