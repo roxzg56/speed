@@ -2,6 +2,7 @@ return {
   ["BGMICEOO-82JC-L84E-W32U"] = { valid = true, max_devices = 3, expire = "2026-11-15 11:30:24" },
   ["BGMICEOO-BX6U-5TGR-97YQ"] = { valid = true, expire = "2026-11-15 16:27:38" },
   ["BGMICEOO-CSCE-LAWG-8JMN"] = { valid = true, expire = "2026-11-15 12:06:53" },
+  ["BGMICEOO-HBZK-TXKA-HABY"] = { valid = true, expire = "2026-11-16 17:27:23", creator = "2126486054" },
   ["BGMICEOO-HLV5-XL7W-4X6H"] = { valid = true, expire = "2026-11-16 14:13:47" },
   ["BGMICEOO-LFP4-YMAC-TJEH"] = { valid = true, max_devices = 10, expire = "2026-11-15 08:59:51" },
   ["BGMICEOO-MDFW-2874-9983"] = { valid = true, expire = "2026-11-22 16:37:43" },
