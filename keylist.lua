@@ -26,6 +26,7 @@ return {
   ["MYNK-Q8FW-5NRX-UCSZ"] = { valid = true, expire = "2026-11-16 03:33:23" },
   ["MYNK-R4RV-8WQQ-WRM3"] = { valid = true, expire = "2026-11-22 05:36:03" },
   ["MYNK-RV8W-WNMQ-MLFM"] = { valid = true, expire = "2026-11-20 06:49:41" },
+  ["MYNK-THWQ-7HES-T4X7"] = { valid = true, expire = "2026-11-17 12:27:52", creator = "8537504700" },
   ["MYNK-TPKM-JHMV-S9JK"] = { valid = true, expire = "2026-11-16 08:05:07" },
   ["MYNK-TRIAL-2HOUR"] = { valid = true, max_devices = 10, expire = "2026-11-14 12:55:00" },
   ["MYNK-YUPT-ZKHN-XUTC"] = { valid = true, expire = "2026-11-15 05:16:42" },
