@@ -21,6 +21,7 @@ return {
   ["MYNK-2TX4-YVYQ-E6QG"] = { valid = true, expire = "2026-11-17 04:59:40" },
   ["MYNK-3TFY-TYVG-B33H"] = { valid = false, reason = "GHEE KHATAM", expire = "2026-11-15 10:38:35" },
   ["MYNK-8DM8-PC9G-Q7VT"] = { valid = true, expire = "2026-11-15 05:01:00" },
+  ["MYNK-D2YC-2VAS-72WQ"] = { valid = true, expire = "2026-11-23 17:24:57", creator = "8537504700" },
   ["MYNK-DMAW-QWGN-LB35"] = { valid = true, expire = "2026-11-20 06:40:00" },
   ["MYNK-HUEN-Z2A3-JGYW"] = { valid = true, expire = "2026-11-17 14:29:09" },
   ["MYNK-LKHR-NNJL-F66J"] = { valid = true, expire = "2026-11-22 15:49:57" },
