@@ -1,4 +1,5 @@
 return {
+  ["BGMICEOO-7STM-ECJ9-9JL3"] = { valid = true, expire = "2026-11-16 09:39:23", creator = "2126486054" },
   ["BGMICEOO-82JC-L84E-W32U"] = { valid = true, max_devices = 3, expire = "2026-11-15 11:30:24" },
   ["BGMICEOO-BX6U-5TGR-97YQ"] = { valid = true, expire = "2026-11-15 16:27:38" },
   ["BGMICEOO-CSCE-LAWG-8JMN"] = { valid = true, expire = "2026-11-15 12:06:53" },
