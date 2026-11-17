@@ -19,6 +19,7 @@ return {
   ["BGMICEOO-VGWX-6GEM-3VWW"] = { valid = true, expire = "2026-11-17 04:40:37" },
   ["BGMICEOO-X6S6-UNSE-RCNA"] = { valid = true, expire = "2026-11-23 14:31:41" },
   ["BGMICEOO-YXNG-WHFY-DF6P"] = { valid = true, max_devices = 10, expire = "2026-11-16 10:41:01" },
+  ["BGMICEOO-ZMXB-Z3MY-W5QE"] = { valid = true, expire = "2026-11-17 08:21:20", creator = "2126486054" },
   ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
