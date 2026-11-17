@@ -177,6 +177,7 @@ return {
   ["RX2-H53M-AKX9-2C5F"] = { valid = true, expire = "2026-11-23 08:31:34" },
   ["RX2-HMP8-5CD4-QKSA"] = { valid = true, expire = "2026-11-19 17:11:11" },
   ["RX2-HTRS-HQZA-35JZ"] = { valid = true, expire = "2026-11-23 16:07:55" },
+  ["RX2-KZGW-9NGR-ADK2"] = { valid = true, expire = "2026-11-24 04:41:44", creator = "1050936826" },
   ["RX2-QNLN-3NRA-95DG"] = { valid = true, expire = "2026-11-24 04:23:36", creator = "1050936826" },
   ["RX2-SDLA-GM9S-JYVQ"] = { valid = true, expire = "2026-11-20 17:04:18" },
   ["RX2-THCZ-JLVU-E72F"] = { valid = true, expire = "2026-11-21 13:54:57" },
