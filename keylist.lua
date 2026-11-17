@@ -1,5 +1,6 @@
 return {
   ["BGMICEOO-2D6Q-ZNQH-J3KP"] = { valid = true, expire = "2026-11-17 10:04:55", creator = "2126486054" },
+  ["BGMICEOO-37NX-D7WW-CRDC"] = { valid = true, expire = "2026-11-17 11:23:16", creator = "2126486054" },
   ["BGMICEOO-5WS5-BP8N-DVPU"] = { valid = true, expire = "2026-11-17 11:02:13" },
   ["BGMICEOO-5XGV-5YUL-XMAB"] = { valid = true, expire = "2026-11-17 10:39:16", creator = "2126486054" },
   ["BGMICEOO-7STM-ECJ9-9JL3"] = { valid = true, expire = "2026-11-16 09:39:23" },
