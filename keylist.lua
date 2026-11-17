@@ -36,6 +36,7 @@ return {
   ["BGMICEOO-YXNG-WHFY-DF6P"] = { valid = true, max_devices = 10, expire = "2026-11-16 10:41:01" },
   ["BGMICEOO-ZMXB-Z3MY-W5QE"] = { valid = true, expire = "2026-11-17 08:21:20" },
   ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08" },
+  ["LUND-KXYE-MHV8-7D35"] = { valid = true, expire = "2026-11-18 12:01:56", creator = "5738050034" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
   ["MYNK-2TX4-YVYQ-E6QG"] = { valid = true, expire = "2026-11-17 04:59:40" },
