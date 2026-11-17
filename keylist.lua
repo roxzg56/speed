@@ -177,6 +177,7 @@ return {
   ["ROXZ-WYPM-PLGB-N6G4"] = { valid = true, expire = "2026-11-19 11:54:55" },
   ["ROXZ-X2EY-TVGK-KB3K"] = { valid = true, expire = "2026-12-15 10:13:13" },
   ["ROXZ-X8AS-S83E-UKB6"] = { valid = true, expire = "2026-11-15 06:18:13" },
+  ["ROXZ-X9ZQ-GC4A-9NHV"] = { valid = true, max_devices = 10, expire = "2026-11-17 20:41:41" },
   ["ROXZ-XDHD-RLVE-4PCA"] = { valid = true, expire = "2026-11-23 09:45:06" },
   ["ROXZ-XEW5-W9YH-MVXH"] = { valid = true, expire = "2026-11-14 20:34:02" },
   ["ROXZ-Y3GX-3VMP-9JZG"] = { valid = true, expire = "2026-11-24 13:22:27" },
