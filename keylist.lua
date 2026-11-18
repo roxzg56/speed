@@ -63,6 +63,7 @@ return {
   ["BGMICEOO-L88F-35EF-F2NX"] = { valid = true, expire = "2026-11-17 21:19:38" },
   ["BGMICEOO-LFP4-YMAC-TJEH"] = { valid = true, max_devices = 10, expire = "2026-11-15 08:59:51" },
   ["BGMICEOO-MDFW-2874-9983"] = { valid = true, expire = "2026-11-22 16:37:43" },
+  ["BGMICEOO-MRNN-SR4C-WAXW"] = { valid = true, expire = "2026-11-18 18:10:37", creator = "2126486054" },
   ["BGMICEOO-MYQ2-PQRS-QR2P"] = { valid = true, expire = "2026-11-17 14:40:31" },
   ["BGMICEOO-N28K-FAJX-JUT4"] = { valid = true, expire = "2026-11-17 21:01:12" },
   ["BGMICEOO-NA3X-48SV-7N93"] = { valid = true, expire = "2026-11-17 16:04:26" },
