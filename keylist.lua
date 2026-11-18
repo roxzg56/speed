@@ -2,7 +2,7 @@ return {
   ["BGMICEOO-23MC-EP9F-P8UX"] = { valid = true, expire = "2026-11-18 06:45:43" },
   ["BGMICEOO-2BNH-T23S-9TKX"] = { valid = true, expire = "2026-11-17 17:36:23" },
   ["BGMICEOO-2D6Q-ZNQH-J3KP"] = { valid = true, expire = "2026-11-17 10:04:55" },
-  ["BGMICEOO-2YQX-9DJS-CR3K"] = { valid = true, expire = "2026-11-18 09:21:45", creator = "2126486054" },
+  ["BGMICEOO-2YQX-9DJS-CR3K"] = { valid = true, expire = "2026-11-18 09:21:45" },
   ["BGMICEOO-37NX-D7WW-CRDC"] = { valid = true, expire = "2026-11-17 11:23:16" },
   ["BGMICEOO-3DKC-98G5-AHCP"] = { valid = true, expire = "2026-11-17 17:45:49" },
   ["BGMICEOO-48TJ-YUTZ-VA92"] = { valid = true, expire = "2026-11-17 19:38:56" },
@@ -158,6 +158,7 @@ return {
   ["ROXZ-KQL9-HKTQ-V9E8"] = { valid = true, expire = "2026-11-18 14:31:54" },
   ["ROXZ-LEGD-NHCK-DNVB"] = { valid = true, expire = "2026-11-23 06:06:59" },
   ["ROXZ-LKKU-FKB6-QR97"] = { valid = true, expire = "2026-11-22 13:41:43" },
+  ["ROXZ-LNQV-U68Q-9WP6"] = { valid = true, expire = "2026-11-25 08:35:43" },
   ["ROXZ-LX2R-ANLM-YDR4"] = { valid = true, expire = "2026-11-19 15:45:08" },
   ["ROXZ-LYUW-D7P8-EB4B"] = { valid = true, expire = "2026-11-19 15:33:31" },
   ["ROXZ-LZBH-BEZF-LK87"] = { valid = true, expire = "2026-11-22 08:14:34" },
@@ -344,5 +345,5 @@ return {
   ["VILLN-Z7UJ-7KK2-FZF9"] = { valid = true, expire = "2026-11-16 22:46:43" },
   ["VILLN-ZKMY-P2JB-98MQ"] = { valid = true, expire = "2026-11-14 18:50:42" },
   ["VILLN-ZNQ3-TTZP-L787"] = { valid = true, expire = "2026-11-19 19:42:16" },
-  ["VILLN-ZQMY-SJZ2-HRP5"] = { valid = true, expire = "2026-11-18 09:01:46", creator = "1069319252" },
+  ["VILLN-ZQMY-SJZ2-HRP5"] = { valid = true, expire = "2026-11-18 09:01:46" },
 }
