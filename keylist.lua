@@ -273,6 +273,7 @@ return {
   ["RX2-HTRS-HQZA-35JZ"] = { valid = true, expire = "2026-11-23 16:07:55" },
   ["RX2-KKEH-59YN-Q2U3"] = { valid = true, max_devices = 10, expire = "2026-11-19 12:28:58", creator = "1050936826" },
   ["RX2-KZGW-9NGR-ADK2"] = { valid = true, expire = "2026-11-24 04:41:44" },
+  ["RX2-MFXH-XT47-SJMQ"] = { valid = true, max_devices = 10, expire = "2026-11-19 12:44:22", creator = "1050936826" },
   ["RX2-QNLN-3NRA-95DG"] = { valid = true, expire = "2026-11-24 04:23:36" },
   ["RX2-SDLA-GM9S-JYVQ"] = { valid = true, expire = "2026-11-20 17:04:18" },
   ["RX2-THCZ-JLVU-E72F"] = { valid = true, expire = "2026-11-21 13:54:57" },
