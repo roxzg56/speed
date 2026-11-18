@@ -90,6 +90,7 @@ return {
   ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08" },
   ["LUND-KXYE-MHV8-7D35"] = { valid = true, expire = "2026-11-18 12:01:56" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
+  ["LUND-WNLE-DVJQ-58CL"] = { valid = true, expire = "2026-11-19 15:03:28", creator = "5738050034" },
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
   ["MYNK-2TX4-YVYQ-E6QG"] = { valid = true, expire = "2026-11-17 04:59:40" },
   ["MYNK-3TFY-TYVG-B33H"] = { valid = false, reason = "GHEE KHATAM", expire = "2026-11-15 10:38:35" },
