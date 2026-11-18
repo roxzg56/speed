@@ -193,7 +193,7 @@ return {
   ["ROXZ-TKAV-EFPK-XFT9"] = { valid = true, expire = "2026-12-15 14:44:07" },
   ["ROXZ-TKL5-B25Y-W2GG"] = { valid = true, expire = "2026-11-19 19:08:45" },
   ["ROXZ-TQB8-WRT5-P3D6"] = { valid = true, expire = "2026-11-21 16:25:47" },
-  ["ROXZ-U77Q-JMEK-PAPQ"] = { valid = false, reason = "Banned by admin", expire = "2026-11-19 06:47:17" },
+  ["ROXZ-U77Q-JMEK-PAPQ"] = { valid = true, expire = "2026-11-19 06:47:17" },
   ["ROXZ-V2A6-VAV5-UK6F"] = { valid = true, expire = "2026-11-22 16:48:58" },
   ["ROXZ-VGJ6-9G9Y-5XGH"] = { valid = true, expire = "2026-11-20 05:24:33" },
   ["ROXZ-VQSK-9J6H-D3ML"] = { valid = true, expire = "2026-11-18 17:05:35" },
