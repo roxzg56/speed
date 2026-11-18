@@ -263,6 +263,7 @@ return {
   ["RX2-EFMT-SQGL-WD65"] = { valid = true, max_devices = 10, expire = "2026-11-14 06:23:44" },
   ["RX2-EN8J-HBVE-F6YZ"] = { valid = true, expire = "2026-11-21 05:27:34" },
   ["RX2-F5F5-7BB7-GDTH"] = { valid = true, expire = "2026-11-22 16:34:26" },
+  ["RX2-FTEP-FWZL-ZSJX"] = { valid = true, max_devices = 10, expire = "2026-11-19 12:29:09", creator = "1050936826" },
   ["RX2-FU6N-WTLA-ZJ6L"] = { valid = true, expire = "2026-11-20 18:39:26" },
   ["RX2-GBG8-A7MA-T3NM"] = { valid = true, expire = "2026-11-22 07:26:10" },
   ["RX2-GPCR-Z6CW-Q8EC"] = { valid = true, max_devices = 10, expire = "2026-11-15 13:05:47" },
