@@ -1,5 +1,6 @@
 return {
   ["BGMI-2DQM-YPEH-JB29"] = { valid = true, expire = "2026-11-26 20:15:26" },
+  ["BGMI-3XPQ-J9LF-X3SK"] = { valid = true, expire = "2026-11-19 22:54:28", creator = "2126486054" },
   ["BGMI-3Y6E-K2XZ-2BTU"] = { valid = true, expire = "2026-11-19 19:39:07" },
   ["BGMI-475C-E46X-8D9W"] = { valid = true, expire = "2026-11-19 18:11:51" },
   ["BGMI-4Q7R-WBQV-HZS9"] = { valid = true, expire = "2026-11-26 19:08:34" },
