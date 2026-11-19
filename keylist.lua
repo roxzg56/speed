@@ -65,6 +65,7 @@ return {
   ["BGMICEOO-J7LN-YMPA-5GJD"] = { valid = true, expire = "2026-11-18 20:23:17" },
   ["BGMICEOO-JNDA-ASK3-U6PP"] = { valid = true, expire = "2026-11-18 16:47:41" },
   ["BGMICEOO-KCBU-5392-JQ6E"] = { valid = true, expire = "2026-11-18 09:46:02" },
+  ["BGMICEOO-KFBT-CJSP-5HW5"] = { valid = true, expire = "2026-11-19 18:28:45", creator = "2126486054" },
   ["BGMICEOO-KQHH-6S2H-TW3E"] = { valid = true, expire = "2026-11-25 09:24:34" },
   ["BGMICEOO-KQPT-RBUQ-YA8K"] = { valid = true, expire = "2026-11-18 17:02:25" },
   ["BGMICEOO-L5QC-NKV3-ANGS"] = { valid = true, expire = "2026-11-22 06:34:26" },
