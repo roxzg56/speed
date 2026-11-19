@@ -33,6 +33,7 @@ return {
   ["BGMI-RF4E-C78H-J8ST"] = { valid = true, expire = "2026-11-19 20:53:45" },
   ["BGMI-SNV4-BPUH-6VU9"] = { valid = true, expire = "2026-11-19 17:51:16" },
   ["BGMI-WRRB-ZKTK-NJYT"] = { valid = true, expire = "2026-11-19 22:56:27" },
+  ["BGMI-X874-6W32-9U3T"] = { valid = true, expire = "2026-11-20 23:53:16", creator = "2126486054" },
   ["BGMI-Y7ME-DXZD-H7YU"] = { valid = true, expire = "2026-11-19 22:22:40" },
   ["BGMI-YFFK-C3KL-68V2"] = { valid = true, expire = "2026-11-26 19:05:47" },
   ["BGMI-YRVG-MRCK-KUZZ"] = { valid = true, expire = "2026-11-19 21:19:13" },
