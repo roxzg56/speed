@@ -1,4 +1,5 @@
 return {
+  ["BGMI-73TT-AYEN-CRUE"] = { valid = true, expire = "2026-11-19 17:43:15", creator = "2126486054" },
   ["BGMICEOO-23MC-EP9F-P8UX"] = { valid = true, expire = "2026-11-18 06:45:43" },
   ["BGMICEOO-24BU-4GQA-UAAB"] = { valid = true, expire = "2026-11-22 06:34:26" },
   ["BGMICEOO-2BNH-T23S-9TKX"] = { valid = true, expire = "2026-11-17 17:36:23" },
