@@ -188,6 +188,7 @@ return {
   ["MYNK-YUPT-ZKHN-XUTC"] = { valid = true, expire = "2026-11-15 05:16:42" },
   ["R2X-3MTM-FLF9-6CVV"] = { valid = true, expire = "2026-11-19 20:42:29" },
   ["R2X-4K2P-LM3Y-9QSG"] = { valid = true, expire = "2026-11-19 20:45:08" },
+  ["R2X-96PD-479D-2WWT"] = { valid = true, expire = "2026-11-20 22:53:46", creator = "1050936826" },
   ["R2X-BU8E-R9HA-SMCX"] = { valid = true, max_devices = 10, expire = "2026-11-19 23:56:37" },
   ["R2X-FV6F-MRLN-VNMW"] = { valid = true, max_devices = 2, expire = "2026-12-19 12:03:55" },
   ["R2X-HTHU-94M2-6LDN"] = { valid = true, max_devices = 10, expire = "2026-11-19 23:55:44" },
