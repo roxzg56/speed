@@ -521,6 +521,7 @@ return {
   ["VILLN-YAHR-XTB4-APHB"] = { valid = true, expire = "2026-11-18 11:45:51" },
   ["VILLN-YCU5-DNWT-X5CD"] = { valid = true, expire = "2026-11-19 12:54:31" },
   ["VILLN-YEF4-3CT6-YFVY"] = { valid = true, expire = "2026-11-15 07:04:37" },
+  ["VILLN-YEGX-2YA5-2DPB"] = { valid = true, expire = "2026-12-19 10:03:22", creator = "1069319252" },
   ["VILLN-YT7U-ERGW-N55Q"] = { valid = true, expire = "2026-11-17 14:42:37" },
   ["VILLN-YW4S-8ML9-ZCN3"] = { valid = true, expire = "2026-11-15 06:02:46" },
   ["VILLN-YZ4R-RASY-4VWS"] = { valid = true, expire = "2026-11-25 11:13:48" },
