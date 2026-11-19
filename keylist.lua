@@ -262,6 +262,7 @@ return {
   ["ROXZ-J62Y-NTD6-CMUT"] = { valid = true, expire = "2026-11-20 15:05:13" },
   ["ROXZ-J9WB-LUL5-DVGF"] = { valid = true, expire = "2026-11-17 10:06:51" },
   ["ROXZ-JDRD-H3QZ-5YSW"] = { valid = true, expire = "2026-11-20 10:41:58" },
+  ["ROXZ-JSCZ-XV8M-E9Y5"] = { valid = true, expire = "2026-11-26 21:23:54" },
   ["ROXZ-JUZC-256S-6TYQ"] = { valid = true, expire = "2026-11-14 10:56:00" },
   ["ROXZ-K8FF-5UHB-PLXR"] = { valid = true, max_devices = 10, expire = "2026-11-17 19:50:03" },
   ["ROXZ-KCM7-7YA2-MK73"] = { valid = true, expire = "2026-11-21 11:41:32" },
