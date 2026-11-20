@@ -5,5 +5,6 @@ return {
   ["2126486054"] = { name = "BGMI", max_days = 30, max_keys = 400, prefix = "BGMI", active = true, valid_until = "2026-12-19 16:28:07" },
   ["5738050034"] = { name = "OMAN", max_days = 7, max_keys = 1, prefix = "LUND", active = true, valid_until = "2026-11-19 17:28:48" },
   ["7192516189"] = { name = "MONST", max_days = 7, max_keys = 100, prefix = "MONST", active = true, valid_until = "2026-11-25 15:12:26" },
+  ["7456336992"] = { name = "HYDR", max_days = 7, max_keys = 100, prefix = "HYDR", active = true, valid_until = "2026-11-27 19:15:21" },
   ["8537504700"] = { name = "@Mayank0062", max_days = 7, max_keys = 100, prefix = "MYNK", active = true, valid_until = "2026-11-20 06:30:03" },
 }
