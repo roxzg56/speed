@@ -225,6 +225,7 @@ return {
   ["BGMICEOO-ZDBR-NW3K-GFLW"] = { valid = true, expire = "2026-11-17 17:15:01" },
   ["BGMICEOO-ZEMX-7FJF-A42C"] = { valid = true, expire = "2026-11-17 19:10:47" },
   ["BGMICEOO-ZMXB-Z3MY-W5QE"] = { valid = true, expire = "2026-11-17 08:21:20" },
+  ["HYDR-V4YL-5KF4-3BMK"] = { valid = true, expire = "2026-11-21 05:50:28", creator = "7456336992" },
   ["LUND-3SNK-JJL4-T4A7"] = { valid = true, expire = "2026-11-15 17:30:08" },
   ["LUND-KXYE-MHV8-7D35"] = { valid = true, expire = "2026-11-18 12:01:56" },
   ["LUND-V26J-LGS3-JUJ2"] = { valid = true, expire = "2026-11-13 13:37:30" },
