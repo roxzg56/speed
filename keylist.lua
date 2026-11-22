@@ -86,6 +86,7 @@ return {
   ["BGMI-CKSB-YBL5-HMP2"] = { valid = true, expire = "2026-11-22 00:28:36" },
   ["BGMI-CPWU-KR57-H2AK"] = { valid = true, expire = "2026-11-20 10:14:01" },
   ["BGMI-CS7E-V6FK-XZU3"] = { valid = true, expire = "2026-11-22 04:30:23" },
+  ["BGMI-CZK3-KD4H-HTD4"] = { valid = true, expire = "2026-11-23 02:56:30", creator = "2126486054" },
   ["BGMI-D3NQ-AG6T-38TC"] = { valid = true, expire = "2026-11-22 11:37:32" },
   ["BGMI-D4FR-P3V4-9AZ6"] = { valid = true, expire = "2026-12-22 00:03:26" },
   ["BGMI-D6YY-D6NL-QSED"] = { valid = true, expire = "2026-11-23 22:46:56", creator = "2126486054" },
