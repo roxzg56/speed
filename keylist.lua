@@ -203,6 +203,7 @@ return {
   ["BGMI-VZTN-AAVG-7ASX"] = { valid = true, expire = "2026-11-21 21:05:23", creator = "2126486054" },
   ["BGMI-W37J-VVB4-Q5AA"] = { valid = true, expire = "2026-11-21 18:10:44" },
   ["BGMI-W42T-M8NV-9GM4"] = { valid = true, expire = "2026-11-20 09:06:02" },
+  ["BGMI-W4NG-92JT-5LCD"] = { valid = true, expire = "2026-11-22 16:27:08", creator = "2126486054" },
   ["BGMI-W9G2-HM9V-ETKG"] = { valid = true, expire = "2026-11-21 23:10:15", creator = "2126486054" },
   ["BGMI-WAXN-8WL3-MD35"] = { valid = true, expire = "2026-11-21 09:45:14" },
   ["BGMI-WCYZ-MJTN-EBC5"] = { valid = true, expire = "2026-11-22 14:49:00", creator = "2126486054" },
