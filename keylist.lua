@@ -769,6 +769,7 @@ return {
   ["VILLN-KVK2-NAMS-R83S"] = { valid = true, expire = "2026-11-19 11:28:54" },
   ["VILLN-L8KZ-B3LQ-V5QM"] = { valid = true, expire = "2026-11-14 12:35:27" },
   ["VILLN-LAVL-TEM5-EXTJ"] = { valid = true, expire = "2026-11-14 04:50:01" },
+  ["VILLN-LEHN-P555-U7VY"] = { valid = true, expire = "2026-11-22 08:57:30", creator = "1069319252" },
   ["VILLN-LOCO"] = { valid = true, expire = "2026-11-22 01:07:26", creator = "1069319252" },
   ["VILLN-LRPS-DYZ8-56XB"] = { valid = true, expire = "2026-11-22 13:10:35", creator = "1069319252" },
   ["VILLN-LZ9H-3G9E-TCWU"] = { valid = true, expire = "2026-11-16 11:55:02" },
