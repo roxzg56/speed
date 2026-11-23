@@ -1,5 +1,6 @@
 return {
   ["ANIK-9ZGH-XK7M-PJDL"] = { valid = true, expire = "2026-11-30 08:22:59", creator = "8606874543" },
+  ["ANIK-QGNW-LT7S-DW7X"] = { valid = true, expire = "2026-11-30 08:51:25", creator = "8606874543" },
   ["BGMI-22R9-PHQ6-3KVN"] = { valid = true, expire = "2026-11-20 22:18:32" },
   ["BGMI-2643-S8S7-4HP4"] = { valid = true, expire = "2026-11-22 04:23:22" },
   ["BGMI-2BCA-Z8DG-SC4L"] = { valid = true, expire = "2026-11-21 16:09:25" },
