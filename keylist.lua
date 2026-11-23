@@ -1035,6 +1035,7 @@ return {
   ["VILLN-W4FZ-9VEX-54L4"] = { valid = true, expire = "2026-11-24 01:10:49" },
   ["VILLN-W8EE-25A8-7UX4"] = { valid = true, max_devices = 10, expire = "2026-11-21 14:20:19" },
   ["VILLN-W8R9-B6RQ-N9NY"] = { valid = true, expire = "2026-11-19 19:25:23" },
+  ["VILLN-WABX-39ET-2ENK"] = { valid = true, expire = "2026-11-23 11:12:35", creator = "1069319252" },
   ["VILLN-WBBR-TVC7-FJY7"] = { valid = true, expire = "2026-11-20 23:50:25" },
   ["VILLN-WHVS-KUG6-5NXE"] = { valid = true, expire = "2026-11-13 15:30:27" },
   ["VILLN-WKBN-P83G-TECY"] = { valid = true, expire = "2026-11-20 06:38:58" },
