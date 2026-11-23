@@ -1,4 +1,5 @@
 return {
+  ["ANIK-49Z5-VWQF-BVCP"] = { valid = true, expire = "2026-11-30 09:42:30", creator = "8606874543" },
   ["ANIK-55E6-SUBP-NV2F"] = { valid = true, expire = "2026-11-23 09:02:30", creator = "8606874543" },
   ["ANIK-9ZGH-XK7M-PJDL"] = { valid = true, expire = "2026-11-30 08:22:59", creator = "8606874543" },
   ["ANIK-QGNW-LT7S-DW7X"] = { valid = true, expire = "2026-11-30 08:51:25", creator = "8606874543" },
