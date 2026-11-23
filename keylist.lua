@@ -307,6 +307,7 @@ return {
   ["BGMI-XWEB-TVCV-FREE"] = { valid = true, expire = "2026-11-21 20:19:13" },
   ["BGMI-Y2Y9-86CR-VWPV"] = { valid = true, expire = "2026-11-23 20:07:35" },
   ["BGMI-Y34Y-B3GJ-VX7Q"] = { valid = true, expire = "2026-11-23 01:56:06" },
+  ["BGMI-Y54K-6A9L-XAXK"] = { valid = true, max_devices = 5, expire = "2026-11-24 02:48:06", creator = "2126486054" },
   ["BGMI-Y7ME-DXZD-H7YU"] = { valid = true, expire = "2026-11-19 22:22:40" },
   ["BGMI-YEAY-NEXV-GTRV"] = { valid = true, expire = "2026-11-20 20:45:10" },
   ["BGMI-YFFK-C3KL-68V2"] = { valid = true, expire = "2026-11-26 19:05:47" },
