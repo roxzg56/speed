@@ -232,6 +232,7 @@ return {
   ["BGMI-NNCA-VATV-BXDU"] = { valid = true, expire = "2026-11-20 11:21:19" },
   ["BGMI-NPKV-C6F3-G6JR"] = { valid = true, expire = "2026-11-22 23:06:23" },
   ["BGMI-NPR5-US75-Z7KV"] = { valid = true, expire = "2026-11-21 10:03:43" },
+  ["BGMI-NVBM-N9TG-BCTT"] = { valid = true, expire = "2026-11-24 03:31:07", creator = "2126486054" },
   ["BGMI-NY5Z-3KPB-6AG9"] = { valid = true, expire = "2026-11-20 19:46:43" },
   ["BGMI-P2N5-CBGY-AHKR"] = { valid = true, expire = "2026-11-23 09:26:47" },
   ["BGMI-PDVW-CZMR-HJE3"] = { valid = true, expire = "2026-11-21 12:52:22" },
