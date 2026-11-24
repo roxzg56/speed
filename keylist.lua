@@ -835,6 +835,7 @@ return {
   ["RX2-ZFYE-UKDC-N58Y"] = { valid = true, expire = "2026-11-21 07:00:02" },
   ["RX2-ZJF2-69LE-2YZH"] = { valid = true, expire = "2026-11-23 17:51:19" },
   ["RX2-ZQAZ-VPB4-LKA5"] = { valid = true, expire = "2026-11-24 18:06:14" },
+  ["VILLN-22TF-JMKZ-2Q3N"] = { valid = true, expire = "2026-11-24 18:59:06", creator = "1069319252" },
   ["VILLN-29BD-76PT-QUUH"] = { valid = true, max_devices = 2, expire = "2026-11-20 23:53:56" },
   ["VILLN-2AP4-M2FZ-FCLP"] = { valid = true, expire = "2026-11-16 21:17:24" },
   ["VILLN-2CZZ-55LF-T8E2"] = { valid = true, expire = "2026-11-15 11:16:58" },
