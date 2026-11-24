@@ -45,6 +45,7 @@ return {
   ["BGMI-55XG-CUKF-PYQL"] = { valid = true, expire = "2026-11-24 18:55:22" },
   ["BGMI-56GR-Q7KP-7U97"] = { valid = true, expire = "2026-11-21 22:50:31" },
   ["BGMI-594E-V2TM-NVX4"] = { valid = true, expire = "2026-11-26 21:20:07" },
+  ["BGMI-5DVR-RL63-FZN6"] = { valid = true, expire = "2026-11-24 13:46:58", creator = "2126486054" },
   ["BGMI-5ECG-NW9E-FLQC"] = { valid = true, expire = "2026-11-19 21:24:13" },
   ["BGMI-5GQ9-DEM9-NXL6"] = { valid = true, expire = "2026-11-22 17:03:46" },
   ["BGMI-5KA7-BUGR-BLYN"] = { valid = true, expire = "2026-11-23 21:33:47" },
