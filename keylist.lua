@@ -990,6 +990,7 @@ return {
   ["VILLN-E23N-LKP2-8GNW"] = { valid = true, expire = "2026-11-22 09:58:50" },
   ["VILLN-E2NN-5UJL-KPSP"] = { valid = true, expire = "2026-11-27 20:54:03" },
   ["VILLN-E9MP-4Q8T-ESPD"] = { valid = true, expire = "2026-11-16 17:29:52" },
+  ["VILLN-ECGM-H5PR-8RUW"] = { valid = true, expire = "2026-11-24 15:37:20", creator = "1069319252" },
   ["VILLN-EFLD-4SKM-QQ9B"] = { valid = true, expire = "2026-11-16 08:36:56" },
   ["VILLN-EM84-7NRK-XNXD"] = { valid = true, max_devices = 10, expire = "2026-11-16 08:49:39" },
   ["VILLN-EN2B-42AS-EMDS"] = { valid = true, expire = "2026-11-24 03:56:21" },
