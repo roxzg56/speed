@@ -551,6 +551,7 @@ return {
   ["BGMICEOO-ZEMX-7FJF-A42C"] = { valid = true, expire = "2026-11-17 19:10:47" },
   ["BGMICEOO-ZMXB-Z3MY-W5QE"] = { valid = true, expire = "2026-11-17 08:21:20" },
   ["DEVL-Q795-8UHM-2CGD"] = { valid = true, expire = "2026-12-01 19:04:27" },
+  ["DEVL-TWXD-NDVL-G7QR"] = { valid = true, expire = "2026-12-01 20:46:13", creator = "618380424" },
   ["DEVL-UAKV-PZEP-XYQS"] = { valid = true, expire = "2026-12-01 20:41:49", creator = "618380424" },
   ["HYDR-82B2-NGTG-64FW"] = { valid = true, expire = "2026-11-27 22:50:39" },
   ["HYDR-9Y3F-WS3H-N8CM"] = { valid = true, expire = "2026-11-27 22:50:43" },
