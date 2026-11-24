@@ -283,6 +283,7 @@ return {
   ["BGMI-PU59-LEPY-3R69"] = { valid = true, expire = "2026-12-22 19:14:11" },
   ["BGMI-PW7N-S5J2-UYX5"] = { valid = true, expire = "2026-11-23 10:31:25" },
   ["BGMI-PWAS-9A5E-SKAP"] = { valid = true, expire = "2026-11-25 20:25:01" },
+  ["BGMI-PWSF-D62F-DVR4"] = { valid = true, expire = "2026-11-25 01:46:01", creator = "2126486054" },
   ["BGMI-PXWL-U6FD-YQPG"] = { valid = true, expire = "2026-11-24 00:18:20" },
   ["BGMI-PZNF-RWFR-ECS4"] = { valid = true, expire = "2026-11-22 23:09:16" },
   ["BGMI-Q2GM-PKS2-WSQD"] = { valid = true, expire = "2026-11-20 15:35:04" },
