@@ -333,6 +333,7 @@ return {
   ["BGMI-U3W2-6V86-H8VF"] = { valid = true, max_devices = 10, expire = "2026-11-21 14:25:47" },
   ["BGMI-UBVK-SZ76-AH3D"] = { valid = true, expire = "2026-11-26 19:22:58" },
   ["BGMI-UJCW-RBLA-9SC9"] = { valid = true, expire = "2026-11-22 19:26:30" },
+  ["BGMI-UK6M-CH5G-YB8T"] = { valid = true, expire = "2026-11-24 14:22:19", creator = "2126486054" },
   ["BGMI-ULNU-U3YL-78V2"] = { valid = true, expire = "2026-11-22 02:13:57" },
   ["BGMI-UT2L-QC4Z-9L7D"] = { valid = true, expire = "2026-11-23 21:38:12" },
   ["BGMI-UXM9-B4UF-XKGJ"] = { valid = true, expire = "2026-11-24 10:03:06" },
