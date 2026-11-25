@@ -624,6 +624,7 @@ return {
   ["R2X-VF3B-DUE9-QUM7"] = { valid = true, expire = "2026-11-19 16:52:19" },
   ["R2X-ZBU8-BZQX-ANTP"] = { valid = true, max_devices = 10, expire = "2026-11-19 23:57:01" },
   ["R2X-ZDG9-UKKX-H74J"] = { valid = true, max_devices = 2, expire = "2026-12-22 23:25:27" },
+  ["ROXKY-3RQD-372S-AY5B"] = { valid = true, expire = "2026-12-02 15:52:26", creator = "8922861745" },
   ["ROXZ-2BKG-GJKQ-H5EP"] = { valid = true, expire = "2026-11-19 06:50:35" },
   ["ROXZ-2KXJ-LBPW-XUF9"] = { valid = true, expire = "2026-11-24 12:26:46" },
   ["ROXZ-2L29-NZFA-5JUV"] = { valid = true, expire = "2026-12-02 05:09:28" },
