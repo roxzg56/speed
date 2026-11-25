@@ -634,6 +634,7 @@ return {
   ["ROXKY-NZJR-ZR64-2TPW"] = { valid = true, expire = "2026-12-02 19:05:33" },
   ["ROXKY-VWCF-883M-HRR9"] = { valid = true, expire = "2026-12-02 19:35:37" },
   ["ROXKY-X4MV-653B-ZLBU"] = { valid = true, expire = "2026-12-02 17:15:37" },
+  ["ROXKY-ZBLH-RZ8J-4NMP"] = { valid = true, expire = "2026-11-25 20:42:19", creator = "8922861745" },
   ["ROXZ-2BKG-GJKQ-H5EP"] = { valid = true, expire = "2026-11-19 06:50:35" },
   ["ROXZ-2KXJ-LBPW-XUF9"] = { valid = true, expire = "2026-11-24 12:26:46" },
   ["ROXZ-2L29-NZFA-5JUV"] = { valid = true, expire = "2026-12-02 05:09:28" },
