@@ -9,4 +9,5 @@ return {
   ["7456336992"] = { name = "HYDR", max_days = 7, max_keys = 100, prefix = "HYDR", active = true, valid_until = "2026-11-27 19:15:21" },
   ["8537504700"] = { name = "MYNK", max_days = 7, max_keys = 100, prefix = "MYNK", active = true, valid_until = "2026-12-01 17:04:11" },
   ["8606874543"] = { name = "ANIK", max_days = 7, max_keys = 100, prefix = "ANIK", active = true, valid_until = "2026-11-30 08:17:30" },
+  ["8922861745"] = { name = "ROXKY", max_days = 7, max_keys = 100, prefix = "ROXKY", active = true, valid_until = "2026-12-02 15:30:41" },
 }
