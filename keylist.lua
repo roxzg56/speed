@@ -1,4 +1,5 @@
 return {
+  ["ANIK-2EWF-7PL4-9HH4"] = { valid = true, max_devices = 5, expire = "2026-12-02 08:11:38", creator = "8606874543" },
   ["ANIK-49Z5-VWQF-BVCP"] = { valid = true, expire = "2026-11-30 09:42:30" },
   ["ANIK-55E6-SUBP-NV2F"] = { valid = true, expire = "2026-11-23 09:02:30" },
   ["ANIK-7256-SHXF-K76B"] = { valid = true, expire = "2026-11-30 17:34:51" },
