@@ -648,6 +648,7 @@ return {
   ["ROXKY-435S-WRKT-2GX7"] = { valid = true, expire = "2026-11-29 17:07:49" },
   ["ROXKY-9FQA-379V-XDTL"] = { valid = true, expire = "2026-12-02 16:01:49" },
   ["ROXKY-ADK9-U48B-JT3S"] = { valid = true, expire = "2026-12-02 20:58:04" },
+  ["ROXKY-F7XL-5PMR-HE97"] = { valid = true, expire = "2026-12-03 22:12:46", creator = "8922861745" },
   ["ROXKY-HFSQ-K46M-6AYK"] = { valid = true, expire = "2026-12-02 21:02:18" },
   ["ROXKY-LE94-9687-Z7YF"] = { valid = true, expire = "2026-12-03 15:19:50" },
   ["ROXKY-NZJR-ZR64-2TPW"] = { valid = true, expire = "2026-12-02 19:05:33" },
