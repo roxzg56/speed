@@ -569,6 +569,7 @@ return {
   ["BGMICEOO-ZDBR-NW3K-GFLW"] = { valid = true, expire = "2026-11-17 17:15:01" },
   ["BGMICEOO-ZEMX-7FJF-A42C"] = { valid = true, expire = "2026-11-17 19:10:47" },
   ["BGMICEOO-ZMXB-Z3MY-W5QE"] = { valid = true, expire = "2026-11-17 08:21:20" },
+  ["DEVL-JHAZ-3FF5-3UVN"] = { valid = true, expire = "2026-11-26 19:52:03", creator = "618380424" },
   ["DEVL-Q795-8UHM-2CGD"] = { valid = true, expire = "2026-12-01 19:04:27" },
   ["DEVL-TWXD-NDVL-G7QR"] = { valid = true, expire = "2026-12-01 20:46:13" },
   ["DEVL-UAKV-PZEP-XYQS"] = { valid = true, expire = "2026-12-01 20:41:49" },
