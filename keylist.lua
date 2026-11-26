@@ -6,6 +6,7 @@ return {
   ["ANIK-7DEC-FZL7-D44X"] = { valid = true, expire = "2026-12-03 10:45:41" },
   ["ANIK-8YJK-CJAG-43EQ"] = { valid = true, expire = "2026-11-28 17:15:57" },
   ["ANIK-9GDQ-S9LR-38QJ"] = { valid = true, expire = "2026-11-26 13:35:06" },
+  ["ANIK-9PEG-28LB-EXVE"] = { valid = true, max_devices = 5, expire = "2026-12-03 18:03:41", creator = "8606874543" },
   ["ANIK-9ZGH-XK7M-PJDL"] = { valid = true, expire = "2026-11-30 08:22:59" },
   ["ANIK-BAZP-TCEU-QZ85"] = { valid = true, expire = "2026-12-01 18:00:56" },
   ["ANIK-EBMH-5YZ2-6FB3"] = { valid = true, expire = "2026-12-03 09:20:03" },
