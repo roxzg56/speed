@@ -3,6 +3,7 @@ return {
   ["ANIK-49Z5-VWQF-BVCP"] = { valid = true, expire = "2026-11-30 09:42:30" },
   ["ANIK-55E6-SUBP-NV2F"] = { valid = true, expire = "2026-11-23 09:02:30" },
   ["ANIK-7256-SHXF-K76B"] = { valid = true, expire = "2026-11-30 17:34:51" },
+  ["ANIK-7DEC-FZL7-D44X"] = { valid = true, expire = "2026-12-03 10:45:41", creator = "8606874543" },
   ["ANIK-8YJK-CJAG-43EQ"] = { valid = true, expire = "2026-11-28 17:15:57" },
   ["ANIK-9GDQ-S9LR-38QJ"] = { valid = true, expire = "2026-11-26 13:35:06" },
   ["ANIK-9ZGH-XK7M-PJDL"] = { valid = true, expire = "2026-11-30 08:22:59" },
