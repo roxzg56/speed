@@ -577,6 +577,7 @@ return {
   ["DEVL-UAKV-PZEP-XYQS"] = { valid = true, expire = "2026-12-01 20:41:49" },
   ["DEVL-UCXS-V5BZ-8EWH"] = { valid = true, expire = "2026-12-02 12:59:04" },
   ["HYDR-6FZ8-NFU4-NVES"] = { valid = true, expire = "2026-11-26 01:26:21" },
+  ["HYDR-75MP-3GZG-DT6V"] = { valid = true, expire = "2026-12-03 22:26:46", creator = "7456336992" },
   ["HYDR-82B2-NGTG-64FW"] = { valid = true, expire = "2026-11-27 22:50:39" },
   ["HYDR-98JG-8LVA-YCZL"] = { valid = true, expire = "2026-11-26 20:21:23" },
   ["HYDR-9Y3F-WS3H-N8CM"] = { valid = true, expire = "2026-11-27 22:50:43" },
