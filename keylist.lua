@@ -589,6 +589,7 @@ return {
   ["HYDR-NVJP-RM8V-2B2D"] = { valid = true, expire = "2026-11-23 23:54:56" },
   ["HYDR-PCF8-ADBY-6GL3"] = { valid = true, expire = "2026-12-03 21:06:52" },
   ["HYDR-ROXZ123"] = { valid = true, expire = "2026-11-27 22:50:35" },
+  ["HYDR-T6QV-5AWL-633M"] = { valid = true, expire = "2026-12-04 09:31:09", creator = "7456336992" },
   ["HYDR-TBN8-DKJU-DYJG"] = { valid = true, expire = "2026-12-02 16:46:45" },
   ["HYDR-V4YL-5KF4-3BMK"] = { valid = true, expire = "2026-11-21 05:50:28" },
   ["HYDR-VS3C-EXU5-MBSU"] = { valid = true, expire = "2026-12-03 22:26:18" },
