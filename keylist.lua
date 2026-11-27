@@ -600,6 +600,7 @@ return {
   ["MYNK"] = { valid = true, max_devices = 10, expire = "2026-11-15 10:55:23" },
   ["MYNK-2TX4-YVYQ-E6QG"] = { valid = true, expire = "2026-11-17 04:59:40" },
   ["MYNK-3TFY-TYVG-B33H"] = { valid = false, reason = "GHEE KHATAM", expire = "2026-11-15 10:38:35" },
+  ["MYNK-75U3-64FQ-2C6R"] = { valid = true, expire = "2026-12-04 09:17:55", creator = "8537504700" },
   ["MYNK-8DM8-PC9G-Q7VT"] = { valid = true, expire = "2026-11-15 05:01:00" },
   ["MYNK-949K-F936-3G7C"] = { valid = true, expire = "2026-11-24 08:51:12" },
   ["MYNK-BR57-YZT4-XL82"] = { valid = true, expire = "2026-12-01 17:11:40" },
