@@ -589,7 +589,7 @@ return {
   ["HYDR-EHG3-7A7C-QYKX"] = { valid = true, expire = "2026-11-27 08:54:52" },
   ["HYDR-HPYX-TQPG-WC6U"] = { valid = true, expire = "2026-11-22 16:21:52" },
   ["HYDR-NVJP-RM8V-2B2D"] = { valid = true, expire = "2026-11-23 23:54:56" },
-  ["HYDR-PCF8-ADBY-6GL3"] = { valid = true, expire = "2026-12-03 21:06:52" },
+  ["HYDR-PCF8-ADBY-6GL3"] = { valid = false, reason = "Banned by admin", expire = "2026-12-03 21:06:52" },
   ["HYDR-ROXZ123"] = { valid = true, expire = "2026-11-27 22:50:35" },
   ["HYDR-T6QV-5AWL-633M"] = { valid = true, expire = "2026-12-04 09:31:09" },
   ["HYDR-TBN8-DKJU-DYJG"] = { valid = true, expire = "2026-12-02 16:46:45" },
